@@ -106,9 +106,11 @@ nav h1 a {
 /* ====================== Restaurant Filtering ====================== */
 .filter-options {
   width: 100%;
-  height: 50px;
+  height: auto;
   background-color: #3397DB;
   align-items: center;
+	padding: 10px;
+	text-align: left ;
 }
 .filter-options h2 {
   color: white;
@@ -276,4 +278,11 @@ nav h1 a {
 }
 #restaurant-hours td {
   color: #666;
+}
+
+/* ====================== Restaurant Details ====================== */
+@media (max-width: 780px) {
+	.filter-options {
+		text-align: center;
+	}
 }
