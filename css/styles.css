@@ -192,6 +192,10 @@ nav h1 a {
   text-decoration: none;
   text-transform: uppercase;
 }
+#restaurants-list li a:hover {
+  background-color: #00ddc7;
+  color: #10224e;
+}
 
 /* ====================== Restaurant Details ====================== */
 .inside {
@@ -363,7 +367,7 @@ nav h1 a {
   }
 	.inside #map-container {
     background: blue none repeat scroll 0 0;
-    height: 88%;
+    height: 100%;
     position: fixed;
     right: 0;
     top: 80px;
