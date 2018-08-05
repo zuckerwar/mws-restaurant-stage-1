@@ -36,7 +36,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
 	display: block;
 }
 #maincontent {
-  background-color: #f3f3f3;
+  background-color: #f5f5f5;
   min-height: 100%;
 }
 #footer {
@@ -44,7 +44,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
   color: #aaa;
   font-size: 8pt;
   letter-spacing: 1px;
-  padding: 25px;
+  padding: 20px;
   text-align: center;
   text-transform: uppercase;
 }
@@ -95,7 +95,7 @@ nav h1 a {
 
 /* Add a color on mouse-over */
 #breadcrumb li a:hover {
-    color: #01447e;
+    color: #e2001a;
     text-decoration: underline;
 }
 /* ====================== Map ====================== */
@@ -108,7 +108,7 @@ nav h1 a {
 .filter-options {
   width: 100%;
   height: auto;
-  background-color: #5978ab;
+  background-color: #10224e;
   align-items: center;
 	padding: 10px;
 	text-align: center ;
@@ -148,7 +148,7 @@ nav h1 a {
 	display: flex;
 	flex-direction: column;
   background-color: #fff;
-  border: 2px solid #ccc;
+  border: 1px solid #E8E8E8;
   font-family: 'Open Sans', sans-serif;
   margin: 15px;
   min-height: 380px;
@@ -183,7 +183,6 @@ nav h1 a {
 }
 #restaurants-list li a {
   background-color: #10224e;
-  border-bottom: 3px solid #eee;
   color: #fff;
   display: inline-block;
   font-size: 10pt;
