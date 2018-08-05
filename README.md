@@ -7,7 +7,6 @@ For this project, I incrementally converted a static webpage to a mobile-ready w
 I added accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. I also added a service worker to begin the process of creating a seamless offline experience for the users.
 
 ![](https://github.com/zuckerwar/mws-restaurant-stage-1/blob/master/screenshot1.png)
-![](https://github.com/zuckerwar/mws-restaurant-stage-1/blob/master/screenshot2.png)
 
 ### How to Run the Application
 1. Clone the repository
